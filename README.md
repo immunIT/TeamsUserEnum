@@ -2,7 +2,7 @@
 
 ## Description
 
-Sometimes user enumeration could be sometimes useful during the reconnaissance of an assessment. This tool will determine if an email is registered on teams or not.
+Sometimes user enumeration could be sometimes useful during the reconnaissance of an assessment. This tool will determine if an email is registered on teams or not. More details on the [immunIT's blog](https://www.immunit.ch/blog/2021/07/05/microsoft-teams-user-enumeration/)
 
 ## Usage
 
